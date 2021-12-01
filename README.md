@@ -1,6 +1,6 @@
 # Verification of Monty Hall problem by experimental simulation.
 
-|[中文](https://github.com/wangming1785/Monty-Hall/blob/main/%E7%AE%80%E4%BB%8B.md)|[English](https://github.com/wangming1785/Monty-Hall/edit/main/README.md)|
+|[中文](https://github.com/wangming1785/Monty-Hall/blob/main/%E7%AE%80%E4%BB%8B.md)|[English](https://github.com/wangming1785/Monty-Hall/blob/main/README.md)|
 
 In the process of learning causal inference, I learned about the Monty Hall problem, and although I could see the process of the derivation, I still could not understand it very intuitively. Therefore, we hope to verify the Monty Hall problem through experimental simulations to verify the probability of final selection to the car caused by changing the selected door during the repetition of the experiment.
 
